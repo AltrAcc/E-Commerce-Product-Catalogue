@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product-catalogue</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"  />
+</head>
+
+<body>
+  <header class="container header">
+    <div class="header__leftside">
+      <h1 class="header__title">Product catalogue</h1>
+    </div>
+    <div class="header__rightside">
+      <input type="text" class="header__search" placeholder="Search products...">
+      <button class="btn header__toggle-btn"><i class="fa fa-filter"></i> <span>Filters</span></button>
+      <div class="header__sort">
+        <button class="btn header__sort-btn"><span>Sort By</span> <i class="fa fa-chevron-down"></i></button>
+        <ul class="header__sort-options" role="list">
+            <li><label><input value="rating" type="radio" name="sort" >Rating</label></li>
+            <li> <label><input value="priceAsc" type="radio" name="sort" >Price - Ascending </label> </li>
+            <li> <label><input value="priceDesc" type="radio" name="sort" >Price - Descending </label> </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <section class="container layout__container">
+    <aside class="sidebar">
+      <div class="sidebar__heading-container">
+        <h3 class="sidebar__heading">Filters</h3>
+        <button class="sidebar__filter-clear" hidden></button>
+      </div>
+      <div class="sidebar__filters">
+
+        <div class="sidebar__filter sidebar__filter-category" filter="category">
+          <h4 class="sidebar__filter-heading">Category <i class="fa fa-chevron-down fa-chevron-up arrow"></i></h4>
+          <div class="sidebar__filter-category-value">
+            
+          </div>
+        </div>
+
+        <div class="sidebar__filter sidebar__filter-price" filter="price">
+          <h4 class="sidebar__filter-heading">Price Range <i class="fa fa-chevron-down fa-chevron-up arrow"></i></h4>
+          <div class="sidebar__filter-price-value">
+
+            <div class="slider-container">
+              <div class="price-slider"></div>
+            </div>
+            <div class="range-input">
+              <input type="range" class="min-range" min="0" max="10000" value="0" step="2"/>
+              <input type="range" class="max-range" min="0" max="10000" value="10000" step="2" />
+            </div>
+            <div class="price-input">
+                <input type="number" class="min-input" value="0" />
+                <input type="number" class="max-input" value="10000" />
+            </div>
+          </div>
+
+        </div>
+        <div class="sidebar__filter sidebar__filter-brand" filter="brand">
+          <h4 class="sidebar__filter-heading">Brand <i class="fa fa-chevron-down fa-chevron-up arrow"></i></h4>
+          <div class="sidebar__filter-brand-value">
+          </div>
+        </div>
+
+        <div class="sidebar__filter sidebar__filter-rating" filter="rating">
+          <h4 class="sidebar__filter-heading">Rating <i class="fa fa-chevron-down fa-chevron-up arrow"></i></h4>
+          <div class="sidebar__filter-rating-value">
+            <label><input type="checkbox" value="5"> 5 star and above</label>
+            <label><input type="checkbox" value="4"> 4 star and above</label>
+            <label><input type="checkbox" value="3"> 3 star and above</label>
+            <label><input type="checkbox" value="2"> 2 star and above</label>
+            <label><input type="checkbox" value="1"> 1 star and above</label>
+          </div>
+        </div>
+
+        <div class="category__attribute">
+          <!-- all attributes -->
+        </div>
+
+      </div>
+    </aside>
+
+    <main class="catalogue">
+      <!-- all products -->
+    </main>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

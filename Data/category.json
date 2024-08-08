@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Mobiles"
+  },
+  {
+    "category_id": 2,
+    "category_name": "Laptops"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Tablets"
+  },
+  {
+    "category_id": 4,
+    "category_name": "Accessories"
+  },
+  {
+    "category_id": 5,
+    "category_name": "Headphones"
+  },
+  {
+    "category_id": 6,
+    "category_name": "Smartwatches"
+  },
+  {
+    "category_id": 7,
+    "category_name": "Speakers"
+  },
+  {
+    "category_id": 8,
+    "category_name": "Chargers"
+  },
+  {
+    "category_id": 9,
+    "category_name": "Cases"
+  },
+  {
+    "category_id": 10,
+    "category_name": "Keyboards"
+  },
+  {
+    "category_id": 11,
+    "category_name": "Mice"
+  },
+  {
+    "category_id": 12,
+    "category_name": "Monitors"
+  },
+  {
+    "category_id": 13,
+    "category_name": "Printers"
+  },
+  {
+    "category_id": 14,
+    "category_name": "Scanners"
+  },
+  {
+    "category_id": 15,
+    "category_name": "Networking"
+  }
+]

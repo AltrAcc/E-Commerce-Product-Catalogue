@@ -1,0 +1,1427 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Apple iPhone 14 Pro",
+    "description": "Apple iPhone 14 Pro with 256GB storage and A15 Bionic chip",
+    "price": 999.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 1,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.1 inch"
+      },
+      {
+        "attribute_id": 3, "value": "6GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "A15 Bionic"
+      },
+      {
+        "attribute_id": 6, "value": "4000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "12MP"
+      },
+      {
+        "attribute_id": 8, "value": "iOS"
+      },
+      {
+        "attribute_id": 9, "value": "180g"
+      },
+      {
+        "attribute_id": 10, "value": "146.7 x 71.5 x 7.4 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Samsung Galaxy S21 Ultra",
+    "description": "Samsung Galaxy S21 Ultra with 512GB storage and Exynos 2100 chip",
+    "price": 1199.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 2,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Phantom Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.8 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB"
+      },
+      {
+        "attribute_id": 5, "value": "Exynos 2100"
+      },
+      {
+        "attribute_id": 6, "value": "5000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "108MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "228g"
+      },
+      {
+        "attribute_id": 10, "value": "165.1 x 75.6 x 8.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_name": "OnePlus 9 Pro",
+    "description": "OnePlus 9 Pro with 256GB storage and Snapdragon 888 chip",
+    "price": 969.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 8,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Morning Mist"
+      },
+      {
+        "attribute_id": 2, "value": "6.7 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "48MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "197g"
+      },
+      {
+        "attribute_id": 10, "value": "163.2 x 73.6 x 8.7 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 4,
+    "product_name": "Google Pixel 6 Pro",
+    "description": "Google Pixel 6 Pro with 128GB storage and Google Tensor chip",
+    "price": 899.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 9,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Stormy Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.7 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "Google Tensor"
+      },
+      {
+        "attribute_id": 6, "value": "5000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "50MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "210g"
+      },
+      {
+        "attribute_id": 10, "value": "163.9 x 75.9 x 8.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 5,
+    "product_name": "Xiaomi Mi 11 Ultra",
+    "description": "Xiaomi Mi 11 Ultra with 256GB storage and Snapdragon 888 chip",
+    "price": 849.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 13,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Ceramic White"
+      },
+      {
+        "attribute_id": 2, "value": "6.81 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "5000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "50MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "234g"
+      },
+      {
+        "attribute_id": 10, "value": "164.3 x 74.6 x 8.4 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 6,
+    "product_name": "Oppo Find X3 Pro",
+    "description": "Oppo Find X3 Pro with 256GB storage and Snapdragon 888 chip",
+    "price": 1099.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 14,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Gloss Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.7 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "50MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "193g"
+      },
+      {
+        "attribute_id": 10, "value": "163.6 x 74 x 8.3 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 7,
+    "product_name": "Vivo X60 Pro+",
+    "description": "Vivo X60 Pro+ with 256GB storage and Snapdragon 888 chip",
+    "price": 1199.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 15,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Emperor Blue"
+      },
+      {
+        "attribute_id": 2, "value": "6.56 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4200mAh"
+      },
+      {
+        "attribute_id": 7, "value": "50MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "191g"
+      },
+      {
+        "attribute_id": 10, "value": "158.6 x 73.4 x 9.1 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 8,
+    "product_name": "Sony Xperia 1 III",
+    "description": "Sony Xperia 1 III with 256GB storage and Snapdragon 888 chip",
+    "price": 1299.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 11,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Frosted Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.5 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "12MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "220g"
+      },
+      {
+        "attribute_id": 10, "value": "165 x 71 x 8.2 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 9,
+    "product_name": "Asus ROG Phone 5",
+    "description": "Asus ROG Phone 5 with 512GB storage and Snapdragon 888 chip",
+    "price": 999.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 6,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.78 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "6000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "64MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "238g"
+      },
+      {
+        "attribute_id": 10, "value": "172.8 x 77.3 x 10.3 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 10,
+    "product_name": "Realme GT",
+    "description": "Realme GT with 256GB storage and Snapdragon 888 chip",
+    "price": 499.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 12,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Racing Yellow"
+      },
+      {
+        "attribute_id": 2, "value": "6.43 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "64MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "186g"
+      },
+      {
+        "attribute_id": 10, "value": "158.5 x 73.3 x 8.4 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 11,
+    "product_name": "Dell XPS 13",
+    "description": "Dell XPS 13 with 16GB RAM and 512GB SSD",
+    "price": 1299.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 3,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Silver"
+      },
+      {
+        "attribute_id": 2, "value": "13.3 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "56Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.2kg"
+      },
+      {
+        "attribute_id": 10, "value": "304 x 212 x 14.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 12,
+    "product_name": "HP Spectre x360",
+    "description": "HP Spectre x360 with 8GB RAM and 256GB SSD",
+    "price": 1099.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 4,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Nightfall Black"
+      },
+      {
+        "attribute_id": 2, "value": "13.3 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i5"
+      },
+      {
+        "attribute_id": 6, "value": "60Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.3kg"
+      },
+      {
+        "attribute_id": 10, "value": "307 x 194 x 16.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 13,
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Lenovo ThinkPad X1 Carbon with 16GB RAM and 1TB SSD",
+    "price": 1599.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 5,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "1TB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "57Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.1kg"
+      },
+      {
+        "attribute_id": 10, "value": "323 x 217 x 14.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 14,
+    "product_name": "Asus ZenBook 14",
+    "description": "Asus ZenBook 14 with 8GB RAM and 512GB SSD",
+    "price": 899.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 6,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Pine Grey"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "AMD Ryzen 7"
+      },
+      {
+        "attribute_id": 6, "value": "67Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.15kg"
+      },
+      {
+        "attribute_id": 10, "value": "319 x 210 x 16.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_name": "Acer Swift 3",
+    "description": "Acer Swift 3 with 8GB RAM and 256GB SSD",
+    "price": 699.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 7,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Silver"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i5"
+      },
+      {
+        "attribute_id": 6, "value": "48Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.2kg"
+      },
+      {
+        "attribute_id": 10, "value": "323 x 218 x 15.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 16,
+    "product_name": "Microsoft Surface Laptop 4",
+    "description": "Microsoft Surface Laptop 4 with 16GB RAM and 512GB SSD",
+    "price": 1499.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 10,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Matte Black"
+      },
+      {
+        "attribute_id": 2, "value": "13.5 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "47.4Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.27kg"
+      },
+      {
+        "attribute_id": 10, "value": "308 x 223 x 14.5 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 17,
+    "product_name": "Apple MacBook Pro 16",
+    "description": "Apple MacBook Pro 16 with 16GB RAM and 1TB SSD",
+    "price": 2399.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 1,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Space Gray"
+      },
+      {
+        "attribute_id": 2, "value": "16 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "1TB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Apple M1 Pro"
+      },
+      {
+        "attribute_id": 6, "value": "100Wh"
+      },
+      {
+        "attribute_id": 8, "value": "macOS"
+      },
+      {
+        "attribute_id": 9, "value": "2.0kg"
+      },
+      {
+        "attribute_id": 10, "value": "357 x 245 x 16.2 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 18,
+    "product_name": "Razer Blade 15",
+    "description": "Razer Blade 15 with 16GB RAM and 512GB SSD",
+    "price": 1999.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 11,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "15.6 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "65Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "2.1kg"
+      },
+      {
+        "attribute_id": 10, "value": "355 x 235 x 17.8 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 19,
+    "product_name": "LG Gram 17",
+    "description": "LG Gram 17 with 16GB RAM and 1TB SSD",
+    "price": 1799.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 12,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "White"
+      },
+      {
+        "attribute_id": 2, "value": "17 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "1TB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "80Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.35kg"
+      },
+      {
+        "attribute_id": 10, "value": "380 x 260 x 17.8 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 20,
+    "product_name": "Samsung Galaxy Book Pro",
+    "description": "Samsung Galaxy Book Pro with 8GB RAM and 256GB SSD",
+    "price": 999.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 2,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Mystic Blue"
+      },
+      {
+        "attribute_id": 2, "value": "15.6 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i5"
+      },
+      {
+        "attribute_id": 6, "value": "68Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.05kg"
+      },
+      {
+        "attribute_id": 10, "value": "355 x 225 x 11.7 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 21,
+    "product_name": "Apple iPhone 13",
+    "description": "Apple iPhone 13 with 128GB storage and A14 Bionic chip",
+    "price": 799.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 1,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Blue"
+      },
+      {
+        "attribute_id": 2, "value": "6.1 inch"
+      },
+      {
+        "attribute_id": 3, "value": "4GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "A14 Bionic"
+      },
+      {
+        "attribute_id": 6, "value": "3095mAh"
+      },
+      {
+        "attribute_id": 7, "value": "12MP"
+      },
+      {
+        "attribute_id": 8, "value": "iOS"
+      },
+      {
+        "attribute_id": 9, "value": "174g"
+      },
+      {
+        "attribute_id": 10, "value": "146.7 x 71.5 x 7.7 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 22,
+    "product_name": "Samsung Galaxy Note 20",
+    "description": "Samsung Galaxy Note 20 with 256GB storage and Exynos 990 chip",
+    "price": 999.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 2,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Mystic Bronze"
+      },
+      {
+        "attribute_id": 2, "value": "6.7 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Exynos 990"
+      },
+      {
+        "attribute_id": 6, "value": "4300mAh"
+      },
+      {
+        "attribute_id": 7, "value": "108MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "208g"
+      },
+      {
+        "attribute_id": 10, "value": "161.6 x 75.2 x 8.3 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 23,
+    "product_name": "Google Pixel 5",
+    "description": "Google Pixel 5 with 128GB storage and Snapdragon 765G chip",
+    "price": 699.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 9,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Just Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.0 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 765G"
+      },
+      {
+        "attribute_id": 6, "value": "4080mAh"
+      },
+      {
+        "attribute_id": 7, "value": "12.2MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "151g"
+      },
+      {
+        "attribute_id": 10, "value": "144.7 x 70.4 x 8.0 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 24,
+    "product_name": "Sony Xperia 5 II",
+    "description": "Sony Xperia 5 II with 128GB storage and Snapdragon 865 chip",
+    "price": 949.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 11,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "6.1 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 865"
+      },
+      {
+        "attribute_id": 6, "value": "4000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "12MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "163g"
+      },
+      {
+        "attribute_id": 10, "value": "158 x 68 x 8 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 25,
+    "product_name": "OnePlus 8T",
+    "description": "OnePlus 8T with 256GB storage and Snapdragon 865 chip",
+    "price": 749.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 8,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Aquamarine Green"
+      },
+      {
+        "attribute_id": 2, "value": "6.55 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 865"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "48MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "188g"
+      },
+      {
+        "attribute_id": 10, "value": "160.7 x 74.1 x 8.4 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 26,
+    "product_name": "Oppo Reno 5 Pro",
+    "description": "Oppo Reno 5 Pro with 256GB storage and Dimensity 1000+ chip",
+    "price": 629.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 14,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Starry Night"
+      },
+      {
+        "attribute_id": 2, "value": "6.55 inch"
+      },
+      {
+        "attribute_id": 3, "value": "12GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Dimensity 1000+"
+      },
+      {
+        "attribute_id": 6, "value": "4350mAh"
+      },
+      {
+        "attribute_id": 7, "value": "64MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "173g"
+      },
+      {
+        "attribute_id": 10, "value": "159.1 x 73.4 x 7.6 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 27,
+    "product_name": "Vivo V21",
+    "description": "Vivo V21 with 128GB storage and Dimensity 800U chip",
+    "price": 449.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 15,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Sunset Dazzle"
+      },
+      {
+        "attribute_id": 2, "value": "6.44 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "Dimensity 800U"
+      },
+      {
+        "attribute_id": 6, "value": "4000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "44MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "176g"
+      },
+      {
+        "attribute_id": 10, "value": "159.7 x 73.9 x 7.3 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 28,
+    "product_name": "Realme 8 Pro",
+    "description": "Realme 8 Pro with 128GB storage and Snapdragon 720G chip",
+    "price": 299.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 12,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Infinite Blue"
+      },
+      {
+        "attribute_id": 2, "value": "6.4 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "128GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 720G"
+      },
+      {
+        "attribute_id": 6, "value": "4500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "108MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "176g"
+      },
+      {
+        "attribute_id": 10, "value": "160.6 x 73.9 x 8.1 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 29,
+    "product_name": "Asus Zenfone 8",
+    "description": "Asus Zenfone 8 with 256GB storage and Snapdragon 888 chip",
+    "price": 699.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 6,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Obsidian Black"
+      },
+      {
+        "attribute_id": 2, "value": "5.9 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "4000mAh"
+      },
+      {
+        "attribute_id": 7, "value": "64MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "169g"
+      },
+      {
+        "attribute_id": 10, "value": "148 x 68.5 x 8.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 30,
+    "product_name": "Lenovo Legion Phone Duel 2",
+    "description": "Lenovo Legion Phone Duel 2 with 512GB storage and Snapdragon 888 chip",
+    "price": 1199.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 1,
+    "brand_id": 5,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Titanium White"
+      },
+      {
+        "attribute_id": 2, "value": "6.92 inch"
+      },
+      {
+        "attribute_id": 3, "value": "18GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB"
+      },
+      {
+        "attribute_id": 5, "value": "Snapdragon 888"
+      },
+      {
+        "attribute_id": 6, "value": "5500mAh"
+      },
+      {
+        "attribute_id": 7, "value": "64MP"
+      },
+      {
+        "attribute_id": 8, "value": "Android"
+      },
+      {
+        "attribute_id": 9, "value": "259g"
+      },
+      {
+        "attribute_id": 10, "value": "176 x 78.5 x 9.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 31,
+    "product_name": "Dell Inspiron 15",
+    "description": "Dell Inspiron 15 with 8GB RAM and 256GB SSD",
+    "price": 649.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 3,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Black"
+      },
+      {
+        "attribute_id": 2, "value": "15.6 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i5"
+      },
+      {
+        "attribute_id": 6, "value": "42Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.8kg"
+      },
+      {
+        "attribute_id": 10, "value": "363 x 249 x 18 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 32,
+    "product_name": "HP Pavilion 14",
+    "description": "HP Pavilion 14 with 16GB RAM and 512GB SSD",
+    "price": 899.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 4,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Silver"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "43Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.41kg"
+      },
+      {
+        "attribute_id": 10, "value": "324 x 220 x 17.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 33,
+    "product_name": "Lenovo Yoga 9i",
+    "description": "Lenovo Yoga 9i with 16GB RAM and 1TB SSD",
+    "price": 1699.99,
+    "rating": 5,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 5,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Shadow Black"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "16GB"
+      },
+      {
+        "attribute_id": 4, "value": "1TB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i7"
+      },
+      {
+        "attribute_id": 6, "value": "60Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.37kg"
+      },
+      {
+        "attribute_id": 10, "value": "319 x 216 x 16.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 34,
+    "product_name": "Asus VivoBook S14",
+    "description": "Asus VivoBook S14 with 8GB RAM and 512GB SSD",
+    "price": 749.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 6,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Dreamy White"
+      },
+      {
+        "attribute_id": 2, "value": "14 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "512GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i5"
+      },
+      {
+        "attribute_id": 6, "value": "50Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.4kg"
+      },
+      {
+        "attribute_id": 10, "value": "324 x 220 x 17.9 mm"
+      }
+    ]
+  },
+  {
+    "product_id": 35,
+    "product_name": "Acer Aspire 5",
+    "description": "Acer Aspire 5 with 8GB RAM and 256GB SSD",
+    "price": 599.99,
+    "rating": 4,
+    "image_url": "https://generated.vusercontent.net/placeholder.svg",
+    "category_id": 2,
+    "brand_id": 7,
+    "attributes": [
+      {
+        "attribute_id": 1, "value": "Charcoal Black"
+      },
+      {
+        "attribute_id": 2, "value": "15.6 inch"
+      },
+      {
+        "attribute_id": 3, "value": "8GB"
+      },
+      {
+        "attribute_id": 4, "value": "256GB SSD"
+      },
+      {
+        "attribute_id": 5, "value": "Intel i3"
+      },
+      {
+        "attribute_id": 6, "value": "48Wh"
+      },
+      {
+        "attribute_id": 8, "value": "Windows 10"
+      },
+      {
+        "attribute_id": 9, "value": "1.8kg"
+      },
+      {
+        "attribute_id": 10, "value": "363 x 247 x 18 mm"
+      }
+    ]
+  }
+]

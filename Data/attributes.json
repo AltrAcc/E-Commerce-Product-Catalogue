@@ -1,0 +1,62 @@
+[
+    {
+    "attribute_id": 1,
+    "attribute_name": "Color"
+    },
+    {
+    "attribute_id": 2,
+    "attribute_name": "Screen Size"
+    },
+    {
+    "attribute_id": 3,
+    "attribute_name": "RAM"
+    },
+    {
+    "attribute_id": 4,
+    "attribute_name": "Storage"
+    },
+    {
+    "attribute_id": 5,
+    "attribute_name": "Processor"
+    },
+    {
+    "attribute_id": 6,
+    "attribute_name": "Battery"
+    },
+    {
+    "attribute_id": 7,
+    "attribute_name": "Camera"
+    },
+    {
+    "attribute_id": 8,
+    "attribute_name": "Operating System"
+    },
+    {
+    "attribute_id": 9,
+    "attribute_name": "Weight"
+    },
+    {
+    "attribute_id": 10,
+    "attribute_name": "Dimensions"
+    },
+    {
+    "attribute_id": 11,
+    "attribute_name": "GPU"
+    },
+    {
+    "attribute_id": 12,
+    "attribute_name": "Material"
+    },
+    {
+    "attribute_id": 13,
+    "attribute_name": "Resolution"
+    },
+    {
+    "attribute_id": 14,
+    "attribute_name": "Refresh Rate"
+    },
+    {
+    "attribute_id": 15,
+    "attribute_name": "Ports"
+    }
+    ]
