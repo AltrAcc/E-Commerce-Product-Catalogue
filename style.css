@@ -341,25 +341,23 @@ input[type="checkbox"]:checked::before {
   text-decoration: underline;
 }
 
-.slider-container{
-  width: 100%;
-}
-
+// updated style 
 .slider-container {
-  height: 6px;
   position: relative;
-  background: #e4e4e4;
+  height: 5px;
+  background: #ddd;
   border-radius: 5px;
+  margin-top: 10px;
 }
 
 .slider-container .price-slider {
-  height: 100%;
-  left: 0%;
-  right: 0%;
   position: absolute;
-  border-radius: 5px;
+  height: 100%;
   background: var(--secondary-color);
+  border-radius: 5px;
 }
+
+
 .range-input {
   position: relative;
 }
