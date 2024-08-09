@@ -341,7 +341,7 @@ input[type="checkbox"]:checked::before {
   text-decoration: underline;
 }
 
-// updated style 
+/*  updated style  */
 .slider-container {
   position: relative;
   height: 5px;
